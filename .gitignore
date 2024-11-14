@@ -6,3 +6,4 @@ build
 .vscode
 tools
 src/python
+lib
